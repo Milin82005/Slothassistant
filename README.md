@@ -37,7 +37,7 @@ For Software:Sloth Assistant is a lighthearted web-based project created for a "
 ![Sloth Assistant Home](SCREENSHOT2.png)
 *his shows the homepage of Sloth Assistant*
 
-![Sloth Assistant Feature](SCREENSHORT1.png)
+![Sloth Assistant Feature](SCREENSHOT1.png)
 *Displays the meme drop and sarcastic reply functionality*
 
 ![User Interaction](SCREENSHOT3.png)
