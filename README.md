@@ -9,7 +9,7 @@
 
 
 ### Team Members
-- Team Lead: [Milin Thomas] - [AISAT]
+- Team Lead: [Milin Thomas](https://github.com/Milin82005) - [AISAT]
 - Member 2: [Sanju M B] - [AISAT]
 
 ### Project Description
@@ -29,19 +29,6 @@ For Software:
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
