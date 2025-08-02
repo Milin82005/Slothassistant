@@ -26,22 +26,22 @@
 ### Technologies/Components Used
 For Software:
 - [html,css,javascript]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+
 
 ### Project Documentation
-For Software:
+For Software:Sloth Assistant is a lighthearted web-based project created for a "useless hackathon" with the aim of entertaining rather than assisting. It was built using HTML, CSS, and JavaScript, and includes features like sarcastic replies, random sloth facts, meme drops, and lazy voice responses. The goal was to flip the idea of digital assistants by offering something intentionally unproductive, quirky, and fun. Perfect for procrastinators who want a break from traditional productivity tools.
+
+
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Sloth Assistant Home](SCREENSHOT2.png)
+*his shows the homepage of Sloth Assistant*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Sloth Assistant Feature](SCREENSHORT1.png)
+*Displays the meme drop and sarcastic reply functionality*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![User Interaction](SCREENSHOT3.png)
+*Illustrates the sloth fact generator in action*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -68,16 +68,15 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/18Ctiujk4e3GDeg4vYe67_w5v4tBCPuNf/view?usp=drive_link]
+*The video demonstrates how the Sloth Assistant works. It starts with the home screen showing a lazy and funny welcome message. When the user types something in the input box, the assistant gives a sarcastic or unhelpful reply*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Milin Thomas]: [Ideate,designed,implemented]
+- [Sanju MB]: [Layout improvements,refining]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
