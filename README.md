@@ -1,31 +1,31 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Sloth Assistant] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Supremex]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Milin Thomas] - [AISAT]
+- Member 2: [Sanju M B] - [AISAT]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Sloth Assistant is a fun, meme-style web project designed for proud procrastinators. Instead of helping you be productive, it replies with lazy, sarcastic, and hilarious comments. It features voice responses, random sloth facts, and meme drops to keep things entertaining. Built with HTML, CSS, and JavaScript, it’s simple yet packed with quirky personality. Perfect for a useless hackathon that celebrates doing nothing with style!]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[In a world obsessed with productivity and efficiency, not everyone wants a serious digital assistant. There’s no fun, no sarcasm — just constant pressure to “do more.” What if we had an assistant that embraced procrastinati  on and made laziness feel rewarding?
+]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[Sloth Assistant is a humorous and intentionally unhelpful web-based assistant. Instead of giving reminders or tasks, it offers sarcastic replies, lazy voice responses, random sloth facts, and memes to celebrate doing nothing. It’s a light-hearted twist on productivity tools — built to entertain, not assist.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [html,css,javascript]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
