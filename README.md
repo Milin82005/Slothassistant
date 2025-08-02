@@ -34,13 +34,13 @@ For Software:Sloth Assistant is a lighthearted web-based project created for a "
 
 
 # Screenshots (Add at least 3)
-![Sloth Assistant Home](SCREENSHOT2.png)
+![Sloth Assistant Home](https://drive.google.com/file/d/1B3DeGvFtcrLhuNbvCHkmRLjuCQCUvolw/view?usp=drive_link)
 *his shows the homepage of Sloth Assistant*
 
-![Sloth Assistant Feature](SCREENSHOT1.png)
+![Sloth Assistant Feature](https://drive.google.com/file/d/11rJXvk0ygv7aNnRMspt17UssYSjPUtrT/view?usp=drive_link)
 *Displays the meme drop and sarcastic reply functionality*
 
-![User Interaction](SCREENSHOT3.png)
+![User Interaction](https://drive.google.com/file/d/1pMEMlSxbkCIY2G52LFJaoNbTY9VtCH3o/view?usp=drive_link)
 *Illustrates the sloth fact generator in action*
 
 # Diagrams
