@@ -1,0 +1,38 @@
+body {
+  font-family: 'Comic Sans MS', cursive;
+  text-align: center;
+  background-color: #f0fdf4;
+  padding: 50px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #4b5563;
+}
+
+input {
+  padding: 10px;
+  font-size: 16px;
+  width: 300px;
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #a7f3d0;
+  border: none;
+  border-radius: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #6ee7b7;
+}
+
+#response {
+  margin-top: 30px;
+  font-size: 24px;
+  color: #065f46;
+}

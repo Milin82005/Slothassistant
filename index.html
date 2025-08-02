@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sloth Assistant™</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🦥 Sloth Assistant™</h1>
+  <p>Ask me anything... if you must.</p>
+
+  <input type="text" id="question" placeholder="Type your question here...">
+  <button onclick="getSlothResponse()">Ask the Sloth</button>
+<br><br>
+
+<!-- Mood Selector -->
+<label for="mood">Your Mood:</label>
+<select id="mood" onchange="showMood(this.value)">
+  <option value="">--Select Mood--</option>
+  <option value="sleepy">😴 Sleepy</option>
+  <option value="hungry">🍕 Hungry</option>
+  <option value="overworked">💼 Overworked</option>
+</select>
+
+<br><br>
+
+<!-- Sloth Fact Button -->
+<button onclick="showSlothFact()">🧠 Give Me a Sloth Fact</button>
+
+<!-- Output response -->
+<p id="response" style="margin-top: 20px; font-weight: bold;"></p>
+  <div id="response"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
